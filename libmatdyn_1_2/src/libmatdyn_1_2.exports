@@ -1,0 +1,11 @@
+libmatdyn_1_2Initialize
+libmatdyn_1_2InitializeWithHandlers
+libmatdyn_1_2Terminate
+libmatdyn_1_2PrintStackTrace
+libmatdyn_1_2GetMcrID
+mlxLoadflow
+mlfLoadflow
+mlxMdisplay
+mlfMdisplay
+mlxSimulate
+mlfSimulate
